@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshua030" alt="joshua030" /></a> </p>
 
-- 🔭 I’m currently working on [My portfolio](portfolio-alpha-eight-31.vercel.app)
+- 🔭 I’m currently working on [My portfolio](https://portfolio-joshua030.vercel.app/)
 
 - 🌱 I’m currently learning **nextjs,typescript**
 
