@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [My portfolio](https://portfolio-joshua030.vercel.app/)
 
-- 🌱 I’m currently learning **nextjs,typescript**
+- 🌱 I’m currently learning **java,typescript**
 
 - 👨‍💻 All of my projects are available at [portfolio-alpha-eight-31.vercel.app](portfolio-alpha-eight-31.vercel.app)
 
-- 💬 Ask me about **React, Html, Css ,javascript**
+- 💬 Ask me about **React, Html, Css ,javascript, Next.js**
 
 - 📫 How to reach me **joseluy123@gmail.com** :telephone_receiver: **+34 600321100**
 
